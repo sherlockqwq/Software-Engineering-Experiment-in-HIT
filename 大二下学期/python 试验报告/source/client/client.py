@@ -10,7 +10,7 @@ class Client(Cmd):
     客户端
     """
     prompt = ''
-    intro = '简易python聊天室\n' + '输入help可以获取指令目录\n'
+    intro = '简易的python聊天小程序\n' + '输入help可以获取指令目录\n'
 
     def __init__(self):
         """
