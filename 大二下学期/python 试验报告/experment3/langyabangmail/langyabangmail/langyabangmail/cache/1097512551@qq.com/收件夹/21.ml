@@ -1,0 +1,58 @@
+Received: from hust.edu.cn (unknown [202.114.0.240])
+	by newmx124.qq.com (NewMx) with SMTP
+	id ; Sat, 06 Jan 2018 16:32:40 +0800
+X-QQ-FEAT: abApE3BLcR6ljnlFnuPdHU5uZtGrUrdDWTAcQHrVoDogFXyZx0QeQX6ncSfHH
+	Wu4Yl/nkRor6PuJ6zCF6qyV1hDap8c7sgfzJ7HU4ixf+kKVWc9ytFZFdTjKpWvu1hsrxv0k
+	JDt4VZarUUzaZoza3/XrZzUGyLphdaTRh7SOlMlwUnULrC6or392z8m6/AnOykGUtDXAr9L
+	Xd/wTt9U5ButoBJ9bkx7BkMfSOFxN1RuAeBcbwjbTilxSEEWSMVzeh2sqR392Ew8AfoCBaS
+	ZzcIXfEmzPk6A6
+X-QQ-MAILINFO: MHG2h55yn1llGeHhBnikmK7jjRsDFtItYeFZEyhZmwaTK4NncOL2xg9Ww
+	buoDPtVFJajw5X5oEZnBJN8bJ9FylawLld5Z2H7ZdG2PLqkEQ4DMywzKwiKhrsbeP7HNVss
+	7TB7oJO85IST8joFuE/EVUczTGkOkxujEA==
+X-QQ-mid: mx124t1515227561tqnamufzk
+X-QQ-CSender: u201513351@hust.edu.cn
+X-QQ-ORGSender: u201513351@hust.edu.cn
+Received: from Kaikai (unknown [10.11.60.130])
+	by app2 (Coremail) with SMTP id GQEQrADns5x0iVBaTtg5Ag--.4087S2;
+	Sat, 06 Jan 2018 16:31:48 +0800 (CST)
+Date: Sat, 6 Jan 2018 16:32:15 +0800 (CST)
+From: <U201513351@hust.edu.cn>
+To: <361661957@qq.com>,  <1097512551@qq.com>
+Message-ID: <26281487.2.1515227535892@Kaikai>
+Subject: =?GBK?Q?123=D6=D0=CE=C4qwe?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_1_20001239.1515227535888"
+X-CM-TRANSID: GQEQrADns5x0iVBaTtg5Ag--.4087S2
+X-Coremail-Antispam: 1UD129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UjIYCTnIWjp_UUUO47k0a2IF6F4UM7kC6x804xWl1xkIjI8I
+	6I8E6xAIw20EY4v20xvaj40_Wr0E3s1l1IIY67AEw4v_Jr0_Jr4l8cAvFVAK0II2c7xJM2
+	8CjxkF64kEwVA0rcxSw2x7M28EF7xvwVC0I7IYx2IY67AKxVW7JVWDJwA2z4x0Y4vE2Ix0
+	cI8IcVCY1x0267AKxVWxJVW8Jr1l84ACjcxK6I8E87Iv67AKxVW0oVCq3wA2z4x0Y4vEx4
+	A2jsIEc7CjxVAFwI0_GcCE3s1lnxkEFVAIw20F6cxK64vIFxWle2I262IYc4CY6c8Ij28I
+	cVAaY2xG8wASzI0EjI02j7AqF2xKxwAqx4xG64xvF2IEw4CE5I8CrVC2j2Wl5I8CrVCF54
+	CYxVAG04kSxc1lYx0E2Ix0cI8IcVAFwI0_JF0_Jw1lYx0Ex4A2jsIE14v26r4j6F4UMcvj
+	eVCFs4IE7xkEbVWUJVW8JwACjcxG0xvEwIxGrwAKzVCjr7xvwVAFz4v204v26I0v724lw4
+	CEc2x0rVAKj4xxMxAIw28IcxkI7VAKI48JMxAIw28IcVCjz48v1sIEY20_GFy3Jr1UJwCF
+	x2IqxVCFs4IE7xkEbVWUJVW8JwC20s026c02F40E14v26r106r1rMI8I3I0E7480Y4vE14
+	v26r1j6r18MI8E67AF67kF1VAFwI0_Jrv_JF1lIxkGc2Ij64vIr41lIxAIcVC0I7IYx2IY
+	67AKxVWUJVWUCwCI42IY6xIIjxv20xvEc7CjxVAFwI0_Jr0_Gr1lIxAIcVCF04k26cxKx2
+	IYs7xG6Fyj6rWUJwCI42IY6I8E87Iv67AKxVWUJVW8JwCI42IY6I8E87Iv6xkF7I0E14v2
+	6r1j6r4UYxBIdaVFxhVjvjDU0xZFpf9x07jO6pPUUUUU=
+X-CM-SenderInfo: zxsqikyrttkio6kx23oohg3hdfq/
+
+------=_Part_1_20001239.1515227535888
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+dfsfdfgg=E4=B8=AD=E6=96=871233
+------=_Part_1_20001239.1515227535888
+Content-Type: text/plain; charset=us-ascii;
+	name="=?GBK?B?0MK9qM7Esb7OxLW1LnR4dA==?="
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="=?GBK?B?0MK9qM7Esb7OxLW1LnR4dA==?="
+
+desdmwpbsziviccb
+------=_Part_1_20001239.1515227535888--
+

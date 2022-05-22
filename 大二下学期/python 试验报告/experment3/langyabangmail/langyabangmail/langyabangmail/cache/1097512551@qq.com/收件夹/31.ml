@@ -1,0 +1,19 @@
+X-QQ-mid: esmtp32t1515208954tg1kryx0e
+Received: from Kaikai (unknown [59.172.234.171])
+	by esmtp4.qq.com (ESMTP) with SMTP id 0
+	for <1097512551@qq.com>; Sat, 06 Jan 2018 11:22:34 +0800 (CST)
+X-QQ-SSF: A0010000000000F0FSF01F00000000Z
+X-QQ-FEAT: UtFeP4UTPIcem/4BH47PWCz4BrGNaj8Hpf1Ls/OPRElgIKQ5NmDo8AuOGWPoc
+	6R28vWLFXRFxwTvW9EazTiX+odd+8Bid6Ac0gGS8gyW4xI+rPIFxjrnk3dyPYoHO0/HDJqt
+	/KWo1EUopHzWmK2ghZj2VV+DYCQ1Dd3F3+owrEM8o9Sgx53ltEMPIkRfH/h28p3FoEB0htF
+	GOnDRUgBxF/kG8a2AuxrRRpOsJiHcP1NR61oW46BBT7WlHpCT41MOBiSVBlPBLb0=
+Date: Sat, 6 Jan 2018 11:23:02 +0800 (CST)
+From: <1097512551@qq.com>
+To: <1097512551@qq.com>
+Message-ID: <11633445.0.1515208982581@Kaikai>+CBCBE42C456E33E5
+Subject: =?GBK?B?u7bTrcq508M=?=
+MIME-Version: 1.0
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: base64
+
+6YKu566x5a6i5oi356uv5bey6YWN572u5a6M5oiQ44CCIGVuam95IDop

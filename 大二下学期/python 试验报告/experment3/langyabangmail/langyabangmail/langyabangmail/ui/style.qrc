@@ -1,0 +1,59 @@
+<RCC>
+  <qresource prefix="qss_icons">
+    <file>images/logo.png</file>
+    <file>images/c49ff3bd4b93207d613530528e8698d1.png</file>
+    <file>images/c49ff3bd4b93207d613530528e8698d1.png</file>
+    <file>images/15b91949b71fcf2ad7b0a782b569ce64.png</file>
+    <file>images/15b91949b71fcf2ad7b0a782b569ce64.png</file>
+    <file>images/c49ff3bd4b93207d613530528e8698d1.png</file>
+    <file>images/6b177e002527fbc7d4ed5b2a8259ba26.png</file>
+    <file>textedit/screen.png</file>
+    <file>images/logo.png</file>
+    <file>rc/up_arrow_disabled.png</file>
+    <file>images/background.png</file>
+    <file>rc/Hmovetoolbar.png</file>
+    <file>rc/stylesheet-branch-end.png</file>
+    <file>rc/branch_closed-on.png</file>
+    <file>rc/stylesheet-vline.png</file>
+    <file>rc/branch_closed.png</file>
+    <file>rc/branch_open-on.png</file>
+    <file>rc/transparent.png</file>
+    <file>rc/right_arrow_disabled.png</file>
+    <file>rc/sizegrip.png</file>
+    <file>rc/close.png</file>
+    <file>rc/close-hover.png</file>
+    <file>rc/close-pressed.png</file>
+    <file>rc/down_arrow.png</file>
+    <file>rc/Vmovetoolbar.png</file>
+    <file>rc/left_arrow.png</file>
+    <file>rc/stylesheet-branch-more.png</file>
+    <file>rc/up_arrow.png</file>
+    <file>rc/right_arrow.png</file>
+    <file>rc/left_arrow_disabled.png</file>
+    <file>rc/Hsepartoolbar.png</file>
+    <file>rc/branch_open.png</file>
+    <file>rc/Vsepartoolbar.png</file>
+    <file>rc/down_arrow_disabled.png</file>
+    <file>rc/undock.png</file>
+    <file>rc/checkbox_checked_disabled.png</file>
+    <file>rc/checkbox_checked_focus.png</file>
+    <file>rc/checkbox_checked.png</file>
+    <file>rc/checkbox_indeterminate.png</file>
+    <file>rc/checkbox_indeterminate_focus.png</file>
+    <file>rc/checkbox_unchecked_disabled.png</file>
+    <file>rc/checkbox_unchecked_focus.png</file>
+    <file>rc/checkbox_unchecked.png</file>
+    <file>rc/radio_checked_disabled.png</file>
+    <file>rc/radio_checked_focus.png</file>
+    <file>rc/radio_checked.png</file>
+    <file>rc/radio_unchecked_disabled.png</file>
+    <file>rc/radio_unchecked_focus.png</file>
+    <file>rc/radio_unchecked.png</file>
+  </qresource>
+  <qresource prefix="新前缀">
+    <file>images/15b91949b71fcf2ad7b0a782b569ce64.png</file>
+  </qresource>
+  <qresource prefix="qdarkstyle">
+    <file>style.qss</file>
+  </qresource>
+</RCC>

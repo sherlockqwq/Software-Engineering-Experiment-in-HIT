@@ -1,0 +1,56 @@
+Received: from hust.edu.cn (unknown [202.114.0.240])
+	by newmx110.qq.com (NewMx) with SMTP id
+	for <1097512551@qq.com>; Sat, 06 Jan 2018 09:58:46 +0800
+X-QQ-FEAT: CtHL3CSvZC0D8ijcSxgKwMf/HucPdv6iiU640J0o5i/sl7YHokAc2PsHPC0Ff
+	hEvz5xQ6HuuI+EJ8rQpo6YpVujwXpUJbWLskDrj91TaqE38dV4nUVSdZrZLmpX2WejZJcZw
+	iCulW2BGF+5i7To+W81OSUKuUyRPz/3Pl4KwUPqJ35+PhbHyfehphY4Bdd8fRtdWs7nl3dc
+	7nVN2HMzgR4R+HAu0pyegwjbx8g/j9Clz+Cggc3AtQYAYZY0ZE6+yAlTQhsynnsk=
+X-QQ-MAILINFO: MjJD59SVx+Ln1GrTiLI5DnSyI+jkGZPTIqFZFUW+6OJyYh8pavqztiUWs
+	sFBTUaV+kLb4Fq1hlaTsrtd9yfHquZswHcOprcFYlgjpjtBDNBv2Ew/X1z8Pqm6tMgdxN/O
+	fBnjx6Jn72kvJuk5cJcZUM2h7OzuBXV3HA==
+X-QQ-mid: mx110t1515203926tesmdxem4
+X-QQ-ORGSender: chensf@hust.edu.cn
+Received: from Kaikai (unknown [10.10.208.116])
+	by app1 (Coremail) with SMTP id FgEQrADXBxIiLVBaz8UoAg--.12382S2;
+	Sat, 06 Jan 2018 09:57:54 +0800 (CST)
+Date: Sat, 6 Jan 2018 09:58:22 +0800 (CST)
+From: <chensf@hust.edu.cn>
+To: <1097512551@qq.com>
+Message-ID: <15557419.2.1515203902945@Kaikai>
+Subject: ds
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_1_24405551.1515203902295"
+X-CM-TRANSID: FgEQrADXBxIiLVBaz8UoAg--.12382S2
+X-Coremail-Antispam: 1UD129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UjIYCTnIWjp_UUUO17k0a2IF6F4UM7kC6x804xWl1xkIjI8I
+	6I8E6xAIw20EY4v20xvaj40_Wr0E3s1l1IIY67AEw4v_Jr0_Jr4l8cAvFVAK0II2c7xJM2
+	8CjxkF64kEwVA0rcxSw2x7M28EF7xvwVC0I7IYx2IY67AKxVW5JVW7JwA2z4x0Y4vE2Ix0
+	cI8IcVCY1x0267AKxVW8JVWxJwA2z4x0Y4vEx4A2jsIE14v26r4UJVWxJr1l84ACjcxK6I
+	8E87Iv6xkF7I0E14v26F4UJVW0owAS0I0E0xvYzxvE52x082IY62kv0487M2AExVA0xI80
+	1c8C04v7Mc02F40EFcxC0VAKzVAqx4xG6I80ewAqx4xG6xAqzxv2648Iw2C25wAv7VC0I7
+	IYx2IY67AKxVWUGVWUXwAv7VC2z280aVAFwI0_Jr0_Gr1lOx8S6xCaFVCjc4AY6r1j6r4U
+	M4x0Y48IcVAKI48JM4kE6x8GjcxK67AEwI8IwI0ExsIj0wAKzVCY07xG64k0F24l42xK82
+	IYc2Ij64vIr41l42xK82IY6x8ErcxFaVAv8VW8ZFyUJr1UMxC20s026xCaFVCjc4AY6r1j
+	6r4UMI8I3I0E5I8CrVAFwI0_JrI_JrWlx2IqxVCjr7xvwVAFwI0_Jr0_Jr4lx4CE17CEb7
+	AF67AKxVWUJVWUXwCIc40Y0x0EwIxGrwCI42IY6xIIjxv20xvE14v26r1j6r1xMIIF0xvE
+	2Ix0cI8IcVCY1x0267AKxVWUJVW8JwCI42IY6xAIw20EY4v20xvaj40_Gr0_Zr1lIxAIcV
+	C2z280aVAFwI0_Gr0_Cr1lIxAIcVC2z280aVCY1x0267AKxVW8JVW8JrUvcSsGvfC2Kfnx
+	nUUI43ZEXa7IU1RwZ7UUUUU==
+X-CM-SenderInfo: zxsqikarttllo6kx23oohg3hdfq/
+
+------=_Part_1_24405551.1515203902295
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+dfsdsfsdfdsgs
+------=_Part_1_24405551.1515203902295
+Content-Type: text/plain; charset=us-ascii;
+	name="=?UTF-8?B?5paw5bu65paH5pys5paH5qGjLnR4dA==?="
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="=?UTF-8?B?5paw5bu65paH5pys5paH5qGjLnR4dA==?="
+
+desdmwpbsziviccb
+------=_Part_1_24405551.1515203902295--
+
